@@ -1,6 +1,6 @@
 cask "nicegit" do
-  version "2.2.0"
-  sha256 "d147d22a3f8be7ad786b0c3b84ef7c084225ecb0eafc42a5828174805e0c243c"
+  version "2.3.0"
+  sha256 "337fd0996ee7ae251d9d7830b8b10671bfef832d3243d51b197b171bcc396656"
 
   url "https://github.com/daniaalnadir/NiceGit/releases/download/v#{version}/NiceGit-#{version}-macos-universal.dmg"
   name "NiceGit"
